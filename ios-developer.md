@@ -10,7 +10,7 @@ Ya contamos con más de 1 millón de usuarios registrados con una valoración de
 
 # La oportunidad
 
-Estamos buscando un perfil iOS Developer para unirse al equipo técnico para desarrollar los distintos productos que forman nuestra plataforma de telemedicina.
+Estamos buscando un perfil iOS Developer (Swift) para unirse al equipo técnico para desarrollar los distintos productos que forman nuestra plataforma de telemedicina.
 
 Entrarás en un equipo multi funcional con alta colaboración entre desarrolladores web, aplicaciones nativas, backend, data, producto y diseño.
 
