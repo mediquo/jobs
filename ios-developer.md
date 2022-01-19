@@ -24,7 +24,7 @@ Entrarás en un equipo multi funcional con alta colaboración entre desarrollado
 - Demostrarás tu conocimiento en las plataformas de iOS para ayudar al resto del equipo
 - Tomarás ownership y tendrás impacto en el producto
 - Pondrás foco en abordar problemas complejos junto al resto del equipo buscando la simplicidad y la entrega contínua
-- Entenderás y trabajarás en un entorno con metodologías ágiles
+- Trabajarás en un entorno con metodologías ágiles
 
 # Que ofrecemos
 
