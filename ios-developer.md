@@ -19,12 +19,12 @@ Entrarás en un equipo multi funcional con alta colaboración entre desarrollado
 # Una vez aquí
 
 - Trabajarás con el resto del equipo técnico y otros equipos de MediQuo
-- Tomar ownership i tener impacto en el producto
 - Te encargarás de coordinar y subir releases de las aplicaciones de iOS
 - Trabajarás proactivamente para mejorar la stack de iOS y subir su calidad y rendimiento
-- Pondrás foco en abordar problemas complejos junto al resto del equipo buscando la simplicidad y la entrega contínua
 - Demostrarás tu conocimiento en las plataformas de iOS para ayudar al resto del equipo
-- Entender y trabajar en un entorno de metodologías Agile
+- Tomarás ownership y tendrás impacto en el producto
+- Pondrás foco en abordar problemas complejos junto al resto del equipo buscando la simplicidad y la entrega contínua
+- Entenderás y trabajarás en un entorno con metodologías ágiles
 
 # Que ofrecemos
 
