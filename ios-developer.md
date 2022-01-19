@@ -6,7 +6,7 @@
 
 MediQuo es una startup con sede en Barcelona con el objetivo de revolucionar el sector de la salud en la era digital. Somos la app de eHealth líder en España y América Latina que hace posible que cualquier profesional de la salud pueda atender a sus pacientes por chat, llamada o videollamada de forma segura y con herramientas profesionales que facilitan la comunicación telemática.
 
-Ya contamos con más de 1 millón de usuarios registrados con una valoración de 4,6 sobre 5 entre más de 11.000 valoraciones. Desarrollada por un equipo de médicos, se lanzó en noviembre del 2017, centrando el crecimiento en España y Latinoamérica con el objetivo de que cualquier persona pueda tener acceso a un médico desde su dispositivo móvil. En 2020 lanzamos mediQuo PRO, la plataforma de comunicación para profesionales de la salud, versión app y web. Actualmente con más de 10.000 profesionales, 90 especialidades médicas y más de 6.000 descargas.
+Ya contamos con más de 1 millón de usuarios registrados con una valoración de 4,6 sobre 5 entre más de 11.000 valoraciones. Desarrollada por un equipo de médicos, se lanzó en noviembre del 2017, centrando el crecimiento en España y Latinoamérica con el objetivo de que cualquier persona pueda tener acceso a un médico desde su dispositivo móvil. En 2020 lanzamos mediQuo PRO, la plataforma de comunicación para profesionales de la salud, versión app y web, actualmente operando con más de 10.000 profesionales, 90 especialidades médicas y más de 6.000 descargas.
 
 # La oportunidad
 
