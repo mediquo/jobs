@@ -12,7 +12,7 @@ En 2020 lanzamos mediQuo PRO, la plataforma de comunicación para profesionales 
 
 # La oportunidad
 
-Estamos buscando un perfil de **Desarrollador Backend PHP**, con conocimientos en **NodeJS** también, para unirse al equipo técnico. Formarás parte activa del desarrollo de los distintos productos que forman nuestra plataforma de telemedicina.
+Estamos buscando un perfil de **Desarrollador Backend PHP**, con conocimientos en **NodeJS**, para unirse al equipo técnico. Formarás parte activa del desarrollo de los distintos productos que forman nuestra plataforma de telemedicina.
 
 Entrarás en un equipo multidisciplinar con alta colaboración entre desarrolladores web, aplicaciones nativas, backend, data, producto y diseño.
 
@@ -20,7 +20,7 @@ Entrarás en un equipo multidisciplinar con alta colaboración entre desarrollad
 
 - Trabajarás con el resto del equipo técnico y otros departamentos de MediQuo.
 - Trabajarás proactivamente para mejorar la stack tecnológico y mejorar su calidad y rendimiento.
-- Demostrarás tu conocimiento en Backend para ayudar al resto del equipo.
+- Demostrarás tu conocimiento en Backend e infrastructura en la nube para ayudar al resto del equipo.
 - Tomarás ownership y tendrás impacto en el producto.
 - Pondrás foco en abordar problemas complejos junto al resto del equipo buscando la simplicidad y la entrega contínua.
 - Trabajarás en un entorno con metodologías ágiles.
