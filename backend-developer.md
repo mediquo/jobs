@@ -19,7 +19,7 @@ Entrarás en un equipo multidisciplinar de alta colaboración donde ayudarás a 
 # Una vez aquí
 
 - Trabajarás con el resto del equipo técnico y otros departamentos de MediQuo.
-- Trabajarás proactivamente para mejorar el stack tecnológico y mejorar su calidad y rendimiento.
+- Trabajarás proactivamente para mejorar el stack tecnológico en términos de calidad y rendimiento.
 - Demostrarás tu conocimiento en Backend e infrastructura en la nube para ayudar al resto del equipo.
 - Tomarás ownership y tendrás impacto en el producto.
 - Pondrás foco en abordar problemas complejos junto al resto del equipo buscando la simplicidad y la entrega contínua.
