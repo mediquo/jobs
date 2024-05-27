@@ -25,6 +25,12 @@ Entrarás en un equipo multidisciplinar de alta colaboración donde ayudarás a 
 - Pondrás foco en abordar problemas complejos junto al resto del equipo buscando la simplicidad y la entrega contínua.
 - Trabajarás en un entorno con metodologías ágiles.
 
+# Qué necesitamos
+- Que tengas visión estratégica y de negocio, mentalidad de trabajo en equipo, orientación a producto centrado en el usuario.
+- Que domines y tengas experiencia trabajando con PHP y Laravel como framework principal.
+- Que tengas experiencia como Backend developer de 3 años al menos.
+- Que tengas experiencia en desarrollo con integración continua e iterativa.
+
 # Qué ofrecemos
 
 - La oportunidad de participar y crecer en un proyecto innovador a nivel internacional.
